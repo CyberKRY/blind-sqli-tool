@@ -23,3 +23,5 @@ The script is as simple as possible, all you need to do is enter the IP address 
 > The script works exclusively with websites that have a login form that accepts POST data.
 
 This is how the interface of the script itself looks like:
+
+![Banner](images/img.png)
