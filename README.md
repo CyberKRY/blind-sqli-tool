@@ -25,3 +25,5 @@ The script is as simple as possible, all you need to do is enter the IP address 
 This is how the interface of the script itself looks like:
 
 ![Banner](images/img.png)
+
+Once you provide the target URL, the script automatically launches the blind SQL injection process. It will begin by brute-forcing and printing the name of the database.
